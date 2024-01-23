@@ -30,7 +30,8 @@ https://github.com/Alexey-Sandor/Food-Shop
 Мои основные технические навыки включают:
 
 - Python, основы HTML, CSS.
-- Фреймворки: Django, Django REST FrameworkFastAPI + (Pydantic, Alembic).
+- Фреймворки: Django, Django REST Framework
+- FastAPI + (Pydantic, Alembic).
 - Базы данных: PostgresSQL, Redis, TinyDB.
 - Очереди: Celery
 - ORM: Django ORM, SQLAlchemy.
